@@ -1,0 +1,15 @@
+C:\Revature\challenges\041723\challenges\050123\bin\Debug\net7.0\050123.exe
+C:\Revature\challenges\041723\challenges\050123\bin\Debug\net7.0\050123.deps.json
+C:\Revature\challenges\041723\challenges\050123\bin\Debug\net7.0\050123.runtimeconfig.json
+C:\Revature\challenges\041723\challenges\050123\bin\Debug\net7.0\050123.dll
+C:\Revature\challenges\041723\challenges\050123\bin\Debug\net7.0\050123.pdb
+C:\Revature\challenges\041723\challenges\050123\obj\Debug\net7.0\050123.csproj.AssemblyReference.cache
+C:\Revature\challenges\041723\challenges\050123\obj\Debug\net7.0\050123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\challenges\041723\challenges\050123\obj\Debug\net7.0\050123.AssemblyInfoInputs.cache
+C:\Revature\challenges\041723\challenges\050123\obj\Debug\net7.0\050123.AssemblyInfo.cs
+C:\Revature\challenges\041723\challenges\050123\obj\Debug\net7.0\050123.csproj.CoreCompileInputs.cache
+C:\Revature\challenges\041723\challenges\050123\obj\Debug\net7.0\050123.dll
+C:\Revature\challenges\041723\challenges\050123\obj\Debug\net7.0\refint\050123.dll
+C:\Revature\challenges\041723\challenges\050123\obj\Debug\net7.0\050123.pdb
+C:\Revature\challenges\041723\challenges\050123\obj\Debug\net7.0\050123.genruntimeconfig.cache
+C:\Revature\challenges\041723\challenges\050123\obj\Debug\net7.0\ref\050123.dll
